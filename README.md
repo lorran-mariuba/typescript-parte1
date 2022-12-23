@@ -1,0 +1,1 @@
+# typescript-parte1
